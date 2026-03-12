@@ -1,0 +1,10 @@
+in referat_2gpt.py file:
+1.aniq sahifalar miqdoricha yozadigan qilish
+2.sahifalar soniga moslab reja va foydalanilgan adabiyotlar miqdorini avtomatik tanlaydigna qilish.
+3.paragraflarning birinchi qatori 5ta harf siljish bilan boshlanadi
+4. titulga mavzuni qo'shish
+5.paragraflar orasidabi bo'sh qatorlarni yo'qotish.
+
+in bot.py file:
+1.faylni mavzu nomi bilan saqlash va ularni yig'ish
+meva va sabzavotlarning sifatli yetishtirish togrisida qaror qabul qilindi 2025-yil

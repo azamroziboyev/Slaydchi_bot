@@ -1,0 +1,180 @@
+{
+    "organic.pptx": {
+        "0": {"title": 5, "matn": 22},
+        "1": {"reja": 8, "reja1": 5, "reja2": 6, "reja3": 7},
+        "2": {"reja1": 7},
+        "3": {"matn": 4},
+        "4": {"matn": 1},
+        "5": {"matn": 14},
+        "6": {"reja2": 7},
+        "7": {"matn": 0},
+        "8": {"reja3": 7},
+        "9": {"matn": 0},
+        "10": {"matn": 0},
+        "11": {"conclusion": 0},
+        "12":{"references": 0},
+        "13":{"farewel": 42}
+    },
+    "power.pptx": {
+        "0": {"title": 2, "subtitle": 3, "point1": 0},
+        "1": {"title": 0, "subtitle": 1, "point1": 4}
+    },
+    "red.pptx": {
+        "0": {"title": 0, "matn": 10},
+        "1": {"reja": 0, "reja1": 2, "reja2": 3, "reja3": 4},
+        "2": {"reja1": 2, "matn": 1},
+        "3": {"matn": 1},
+        "4": {"reja2": 0, "matn": 2},
+        "5": {"matn": 1},
+        "6": {"reja3": 1, "matn": 2},
+        "7": {"matn": 2},
+        "8": {"conclusion": 4},
+        "9": {"references": 1},
+        "10": {"farewel": 4}
+    },
+    "smart.pptx": {
+        "0": {"title": 8, "subtitle": 9},
+        "1": {"reja": 6, "reja1": 4, "reja2": 3, "reja3": 5},
+        "2": {"reja1": 7, "matn":3},
+        "3": {"matn": 3},
+        "4": {"reja2": 5, "matn":6},
+        "5": {"matn": 1},
+        "6": {"reja3": 1, "matn": 2},
+        "7": {"matn": 1},
+        "8": {"conclusion": 3},
+        "9": {"references": 3},
+        "10": {"farewel": 5}
+    },
+    "Solanio.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "Sustainable.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "valuechain.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "abs1.pptx": {
+        "0": {"title": 2, "matn": 3},
+        "1": {"reja": 1, "reja1": 2, "reja2": 4, "reja3": 4},
+        "2": {"reja1": 3, "matn": 4},
+        "3": {"matn": 1},
+        "4": {"reja2": 1, "matn": 2},
+        "5": {"matn": 0},
+        "6": {"reja3": 1, "matn": 2},
+        "7": {"matn": 0},
+        "8": {"conclusion": 2},
+        "9": {"references": 1},
+        "10": {"farewel": 0}
+    },
+    "abs2.pptx": {
+        "0": {"title": 0, "matn": 7},
+        "1": {"reja": 3, "reja1": 4, "reja2": 5, "reja3": 6},
+        "2": {"reja1": 1, "matn": 2},
+        "3": {"matn": 3},
+        "4": {"reja2": 2, "matn": 3},
+        "5": {"matn": 1},
+        "6": {"reja3": 0, "matn": 1},
+        "7": {"matn": 0},
+        "8": {"conclusion": 2, "matn": 1},
+        "9": {"references": 1},
+        "10": {"farewel": 1}
+    },
+
+    "bus1.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "bus2.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "bus3.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "bus4.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "bus5.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "food1.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "food2.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "med1.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "med2.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "med3.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "med4.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "med5.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "pro1.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "pro2.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "pro3.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "ps1.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "train1.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    },
+    "train2.pptx": {
+        "0": {"title": 0, "subtitle": 2, "point1": 3},
+        "1": {"title": 1, "subtitle": 3, "point1": 2},
+        "2": {"title": 0, "subtitle": 1, "point1": 2}
+    }
+}

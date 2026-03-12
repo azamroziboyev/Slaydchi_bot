@@ -1,0 +1,7 @@
+{
+    "templates/agriculture": ["agriculture", "farming", "soil", "irrigation", "plants", "farm productivity"],
+    "templates/metrology": ["measurement", "metrology", "sensors", "accuracy", "instrumentation"],
+    "templates/education": ["education", "teaching", "learning", "school", "training"],
+    "templates/business": ["business", "marketing", "management", "strategy"],
+    "templates/default": ["default", "general", "misc"]
+}
